@@ -56,6 +56,3 @@ The **Cloak of Invisibility** is a cutting-edge project inspired by the magical 
 - Inspired by the Harry Potter series.
 - Thanks to the open-source community for providing incredible tools and resources.
 
-  From This -![cloak1](https://github.com/user-attachments/assets/e3f45cd6-d533-4f45-9df6-6b28b4a4d4b0)
-   To This-![cloak2](https://github.com/user-attachments/assets/49511bb4-9dd2-411d-88f9-b7a9bf9945b7)
-
